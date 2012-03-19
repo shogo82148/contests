@@ -1,4 +1,4 @@
-#問題
+# 問題A. 数珠繋ぎ
 
 Snapper はちっちゃな電化製品で、片側に入力プラグ、反対側に出力ソケットがついています。 この出力ソケットには、電球などの電化製品や、他の Snapper の入力プラグを接続することができます。
 
@@ -49,5 +49,5 @@ Snapper は ON か OFF の状態を持っていて、状態が ON で入力プ�
     Case #4: ON
     
 # Source
-[Google Code Jam 2011 Japan 練習問題 問題A](http://code.google.com/codejam/contest/1343486/dashboard)
+[Google Code Jam 2011 Japan 練習問題 問題A. 数珠繋ぎ](http://code.google.com/codejam/contest/1343486/dashboard#s=p0)
 © 2008-2012 Google

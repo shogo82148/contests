@@ -1,4 +1,4 @@
-# 問題
+# 問題B. 数の集合
 
 連続する複数の整数を、以下の手順によっていくつかの集合に分割します。
 
@@ -41,3 +41,7 @@
 ## 出力
     Case #1: 9
     Case #2: 7
+
+# Source
+[Google Code Jam 2011 Japan 練習問題 問題B. 数の集合](http://code.google.com/codejam/contest/1343486/dashboard#s=p1)
+© 2008-2012 Google
