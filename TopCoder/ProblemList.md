@@ -34,9 +34,12 @@ Problem List
 ## Division I
 - Level One
  [KingXNewCurrency](http://community.topcoder.com/stat?c=problem_statement&pm=11817&rd=14730)
- (solution: [c++](mergersdivone-c++))
+ (solution: [c++](kingxnewcurrency-c++))
 
 ## Division II
+- Level One
+ [KingXNewBaby](http://community.topcoder.com/stat?c=problem_statement&pm=11823&rd=14730)
+ (solution: [c++](kingxnewbaby-c++))
 - Level Two
  [KingXNewCurrency](http://community.topcoder.com/stat?c=problem_statement&pm=11817&rd=14730)
- (solution: [c++](rollingdicedivtwo-c++))
+ (solution: [c++](kingxnewcurrency-c++))
