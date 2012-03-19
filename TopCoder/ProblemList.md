@@ -35,6 +35,10 @@ Problem List
 - Level One
  [KingXNewCurrency](http://community.topcoder.com/stat?c=problem_statement&pm=11817&rd=14730)
  (solution: [c++](kingxnewcurrency-c++))
+- Level Two
+ [KingXMagicSpells](http://community.topcoder.com/stat?c=problem_statement&pm=11822&rd=14730)
+- Level Three
+ [PrinceXDominoes](http://community.topcoder.com/stat?c=problem_statement&pm=11217&rd=14730)
 
 ## Division II
 - Level One
@@ -43,3 +47,5 @@ Problem List
 - Level Two
  [KingXNewCurrency](http://community.topcoder.com/stat?c=problem_statement&pm=11817&rd=14730)
  (solution: [c++](kingxnewcurrency-c++))
+- Level Three
+ [PrinceXToastbook](http://community.topcoder.com/stat?c=problem_statement&pm=11356&rd=14730)
