@@ -30,6 +30,7 @@ Problem List
 
 # Single Round Match 537
 - [Statistics](http://community.topcoder.com/stat?c=round_overview&er=5&rd=14730)
+- [Match Editorial](http://apps.topcoder.com/wiki/display/tc/SRM+537)
 
 ## Division I
 - Level One
@@ -54,6 +55,7 @@ Problem List
 
 # Single Round Match 538
 - [Statistics](http://community.topcoder.com/stat?c=round_overview&rd=14729)
+- [Match Editorial](http://apps.topcoder.com/wiki/display/tc/SRM+538)
 
 ## Division I
 - Level One
