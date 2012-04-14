@@ -2,3 +2,5 @@
 *~
 *.pyc
 *.o
+.DS_Store
+*.out
